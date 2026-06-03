@@ -1,3 +1,5 @@
+[![Maintainability](https://qlty.sh/gh/S1lnce21/projects/calculator-app/maintainability.svg)](https://qlty.sh/gh/S1lnce21/projects/calculator-app)
+
 # Калькулятор
 
 Простой веб-калькулятор в стиле iPhone. Выполняет основные арифметические операции: сложение, вычитание, умножение и деление.
