@@ -104,3 +104,20 @@ button:active {
     color: white;
     font-size: 38px;
 }
+
+.is-depressed {
+    background: white !important;
+    color: #ff9f0a !important;
+}
+
+[data-action="clear"] {
+    background: #a5a5a5;
+    color: #1c1c1e;
+    font-weight: 600;
+}
+
+[data-action="zero"] {
+    background: #ff9f0a;
+    color: white;
+    font-size: 38px;
+}
